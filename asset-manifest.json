@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Todo-Marker/static/css/main.af6e0e50.css",
+    "main.js": "/React-Todo-Marker/static/js/main.d71b21fb.js",
+    "index.html": "/React-Todo-Marker/index.html",
+    "main.af6e0e50.css.map": "/React-Todo-Marker/static/css/main.af6e0e50.css.map",
+    "main.d71b21fb.js.map": "/React-Todo-Marker/static/js/main.d71b21fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af6e0e50.css",
+    "static/js/main.d71b21fb.js"
+  ]
+}
